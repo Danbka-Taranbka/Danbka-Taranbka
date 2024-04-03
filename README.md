@@ -22,7 +22,7 @@
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
   
