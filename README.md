@@ -22,7 +22,7 @@
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img width="100"
-src="https://camo.githubusercontent.com/1bf0d1f3d3c56a35fb820e063b0fc6fed019ca6999c4c5abe17cfdbe3ce190c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" style={"margin-top": "-50px"}>
+src="https://camo.githubusercontent.com/1bf0d1f3d3c56a35fb820e063b0fc6fed019ca6999c4c5abe17cfdbe3ce190c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" align="center">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
